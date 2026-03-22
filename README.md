@@ -47,3 +47,20 @@ Run `src/70BMulti/70BMulti_automation.sh` to start the end-to-end automation.
 
 **Warning:** these scripts are destructive and environment-specific. Review paths and commands before running.
 
+## Citation
+
+If you find **GreenCache** useful in your research or project, please consider citing our paper:
+
+```bibtex
+@misc{tian2026cachepromptitsgreen,
+  title={Cache Your Prompt When It's Green: Carbon-Aware Caching for Large Language Model Serving},
+  author={Yuyang Tian and Desen Sun and Yi Ding and Sihang Liu},
+  year={2026},
+  eprint={2505.23970},
+  archivePrefix={arXiv},
+  primaryClass={cs.DC},
+  url={https://arxiv.org/abs/2505.23970}
+}
+```
+
+You can find the full paper on arXiv: [Cache Your Prompt When It's Green: Carbon-Aware Caching for Large Language Model Serving](https://arxiv.org/abs/2505.23970)
